@@ -22,6 +22,12 @@ html, body{
             background-color:#656d4a;
     }
 
+    .sidebar:hover{
+        transition: width 10s;
+        transition-delay: 2s;
+        width: 30%;
+        width: 500px;
+        background-color:#414833;
     }
 
     .profile-image{
